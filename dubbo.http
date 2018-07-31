@@ -1,0 +1,5 @@
+###@see com.alibaba.edas.DemoConsumerController.sayHello
+### get hello information
+GET http://localhost:7080/sayHello/jackie
+
+###
