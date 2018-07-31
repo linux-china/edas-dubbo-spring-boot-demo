@@ -1,7 +1,8 @@
-# EDAS Dubbo spring boot demo 说明
+# EDAS Dubbo Spring Boot demo 说明
 
 # 本机如何测试
 
+* 执行本地编译 mvn -DskipTests clean package
 * 启动本地的zookeeper
 ```
 docker-compose up -d
